@@ -56,8 +56,5 @@ Os dados coletados serão salvos em diretórios organizados dentro de cada pasta
 ## Contribuição
 Sinta-se à vontade para abrir issues ou enviar pull requests para melhorar este projeto.
 
-## Licença
-Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais informações.
-
 ## Contato
 [GitHub - D-Salge](https://github.com/D-Salge)
